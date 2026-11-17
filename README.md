@@ -1,89 +1,43 @@
 # Anísio Oliveira
 
-Estudante de Engenharia de Software com foco em **backend, automação, sistemas e troubleshooting**.
+Software Engineering student focused on backend development, automation, and systems.
 
-Gosto de trabalhar com problemas que não chegam prontos: investigar comportamento, formular hipóteses, testar, validar o estado real do sistema e transformar isso em uma solução reproduzível.
+I like solving problems that require investigation: observe the behavior, form a hypothesis, test it, and verify the result against the actual system state.
 
-## Principais interesses
+## Featured Projects
 
-- Desenvolvimento de software
-- Backend e APIs
-- Automação
-- Debugging e troubleshooting
-- Sistemas Windows
-- Testes automatizados
-- Integração entre software e serviços do sistema
+### [Distributed Hangman RMI](https://github.com/Lugarty/distributed-hangman-rmi)
 
-## Projetos em destaque
+A cooperative Java Hangman game with a Swing client and an RMI server. Includes integration coverage through a real RMI registry and a GUI smoke test.
 
 ### [Win11 Debloater & Optimizer](https://github.com/Lugarty/Win11-Debloater-Optimizer)
 
-Aplicação desktop em **C#/.NET 8 + WinForms** que integra PowerShell, Registry, serviços, tarefas agendadas, AppX, DISM e SFC.
-
-Pontos técnicos:
-- execução assíncrona;
-- captura de stdout/stderr;
-- logs em tempo real;
-- elevação UAC;
-- operações destrutivas com confirmação;
-- diagnóstico de falhas parciais.
+A C#/.NET 8 desktop utility that coordinates PowerShell and Windows maintenance tools, with asynchronous execution and live logs.
 
 ### [MazeWars](https://github.com/Lugarty/mazewars)
 
-Projeto Java voltado a **modelagem de domínio e testes automatizados**.
-
-Pontos técnicos:
-- separação entre domínio e serviços;
-- JUnit 5;
-- Mockito;
-- injeção de dependências;
-- validação de regras de batalha e efeitos de status.
+A Java battle simulator focused on domain modeling, service boundaries, JUnit 5, and Mockito.
 
 ### [Android Trail Tracker](https://github.com/Lugarty/android-trail-tracker)
 
-Aplicação Android em Java para registro e visualização de trilhas geográficas.
+A Java Android app for recording and reviewing GPS trails with Google Maps and SQLite.
 
-Pontos técnicos:
-- Google Maps SDK;
-- Fused Location Provider;
-- SQLite;
-- relacionamento 1:N entre trilhas e pontos;
-- CRUD local e reconstrução de rotas.
+### [Top 10 Games](https://github.com/Lugarty/top-10-games)
 
-## Tecnologias
+A responsive HTML, CSS, and JavaScript project deployed with GitHub Pages.
 
-**Linguagens:** Java, C#, PowerShell, JavaScript/TypeScript, SQL  
-**Backend:** Spring Boot, APIs REST  
-**Desktop/Sistemas:** .NET 8, WinForms, Windows Registry, PowerShell  
-**Mobile:** Android, SQLite, Google Maps SDK  
-**Testes:** JUnit, Mockito  
-**Ferramentas:** Git, GitHub, GitHub Actions
+## Skills Demonstrated in These Projects
 
-## Como eu trabalho
+- Java, Java RMI, Swing, JUnit 5, and Mockito
+- C#, .NET 8, WinForms, and PowerShell
+- Android, Google Maps SDK, and SQLite
+- HTML, CSS, JavaScript, and GitHub Actions
 
-Quando algo quebra, tento reduzir o problema a evidências observáveis:
+## Current Focus
 
-```text
-sintoma
-  ↓
-hipóteses
-  ↓
-teste
-  ↓
-resultado
-  ↓
-ajuste do modelo
-  ↓
-validação
-```
+I am interested in internships and junior opportunities in backend development, automation, and systems.
 
-Tenho interesse especial em ambientes onde seja necessário entender **por que** algo falha, não apenas aplicar uma correção pronta.
-
-## Atualmente
-
-Aberto a oportunidades de entrada em TI, incluindo **estágio e posições júnior** em desenvolvimento, backend, automação, sistemas e áreas técnicas relacionadas.
-
-## Contato
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/an%C3%ADsio-oliveira-albuquerque-filho-a01568292/)
-- GitHub: [@Lugarty](https://github.com/Lugarty)
+- [GitHub: @Lugarty](https://github.com/Lugarty)
